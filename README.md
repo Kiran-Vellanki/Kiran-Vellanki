@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/KiranVellanki/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-1000+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://portfolio2-591b9.web.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
@@ -26,10 +26,9 @@
 Backend Engineer with **2+ years of experience** building scalable microservices, backend automation platforms, and cloud-native systems using Java and Spring Boot.
 
 - 🏢 Currently a **Research Engineer at LG Soft India** — building content platforms serving **183+ countries**
-- ⚡ Built systems processing **~480 items/minute** on AWS with multi-region support
 - 🤖 Exploring **LLMs and Generative AI** for intelligent backend automation
 - 🧩 Strong believer in clean architecture, design patterns, and system reliability
-- 🏆 LeetCode **1000+ rating** | Higher Achiever Award — Technology Excellence, LG Soft India
+- 🏆 Higher Achiever Award — Technology Excellence, LG Soft India
 
 ---
 
@@ -83,26 +82,12 @@ Backend Engineer with **2+ years of experience** building scalable microservices
 
 ---
 
-## 🚀 Projects
-
-### 💬 Conversational Backend Application
-> Spring Boot · WebSockets · MySQL · OpenAI API
-
-Real-time conversational backend with WebSocket messaging, JWT authentication, persistent chat storage, and ChatGPT API integration for multi-turn conversations.
-
----
 
 ## 🎓 Education
 
 **M.Tech (Integrated) in Software Engineering**
 Vellore Institute of Technology, Chennai — *2019 – 2024*
 
----
-
-## 🏅 Certifications & Awards
-
-- 🥇 **Higher Achiever Award** — Technology Excellence, LG Soft India
-- 📋 **LG Software Engineering Test (LSET)** — Competitive Programming Assessment
 
 ---
 
