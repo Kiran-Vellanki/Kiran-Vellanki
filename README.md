@@ -92,7 +92,7 @@ Vellore Institute of Technology, Chennai — *2019 – 2024*
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kiran-Vellanki&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Kiran-Vellanki&show_icons=true&theme=tokyonight&hide_border=true" height="160"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiran-Vellanki&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
